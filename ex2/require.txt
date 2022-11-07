@@ -11,4 +11,5 @@ Vui lòng dừng làm bài tập, nộp bài và liên hệ người hướng d�
 Mô tả bổ sung cho demo:
 Thanh Navar phải cố định ở trên đầu và không được di chuyển khi scroll màn hình.
 Nội dung yêu cầu trình bày tất cả các thành phố Beijing, Amsterdam, London, Moscow, New York và Paris.
+Khi click vào MORE sẽ mở ra menu của 2 thành phố Beijing và Amsterdam
 Khi click vào các menu thì phải chạy về hiển thị của thành phố đó.
