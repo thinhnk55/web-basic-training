@@ -1,0 +1,14 @@
+Yêu Cầu:
+Làm giao diện màn hình Home Page Responsive cho cả WEB PC và WEB MOBILE.
+Không được phép sử dụng thư viện ngoài hỗ trợ mà chỉ được phép dùng css trong file css/login.css
+code javascript trong file homepage.js
+Mục đích là để mọi người hiểu bản chất thật sự của HTML và CSS và javascript
+
+Thời gian làm bài khuyến nghị:
+Ít hơn 24h, nếu bạn làm quá thời gian trên chứng tỏ bạn đang bị thiếu sót kiến thức nào đó.
+Vui lòng dừng làm bài tập, nộp bài và liên hệ người hướng dẫn để được hỗ trợ.
+
+Mô tả bổ sung cho demo:
+Thanh Navar phải cố định ở trên đầu và không được di chuyển khi scroll màn hình.
+Nội dung yêu cầu trình bày tất cả các thành phố Beijing, Amsterdam, London, Moscow, New York và Paris.
+Khi click vào các menu thì phải chạy về hiển thị của thành phố đó.
