@@ -1,5 +1,12 @@
 Yêu Cầu:
-Làm giao diện màn hình Home Page Responsive cho cả WEB PC và WEB MOBILE.
+Bài tập mở rộng của ex2 với các yêu cầu bổ sung như sau:
+1. Xây dựng HOME dưới hình thức single page web application với các đặc điểm sau
+- Bổ sung footer cố định ở dưới màn hình. Nội dung là @VIETDEFI 2022 - WEB BASIC TRAINING
+- Bổ sung sider menu ở bên trái màn hình có thể responsive và có nội dung tương tự menu ở navbar.
+- Các thành phần trong nội dung (Phần hiện thị các thành phố) sẽ không hiển thị toàn bộ, mà
+chỉ hiện thị thành phố được chọn ở menu (Navbar hoặc sider). Còn các thành phố khác chưa cần hiển thị
+thì ẩn đi.
+
 Không được phép sử dụng thư viện ngoài hỗ trợ mà chỉ được phép dùng css trong file css/homepage.css
 code javascript trong file homepage.js
 Mục đích là để mọi người hiểu bản chất thật sự của HTML và CSS và javascript
