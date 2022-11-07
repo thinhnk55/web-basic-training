@@ -1,0 +1,6 @@
+Yêu Cầu:
+Làm giao diện màn hình login bằng sử dụng html và css.
+Thời gian làm bài khuyến nghị:
+Ít hơn 2h, nếu bạn làm quá thời gian trên chứng tỏ bạn đang bị thiếu sót kiến thức nào đó.
+Vui lòng dừng làm bài tập, nộp bài và liên hệ người hướng dẫn để được hỗ trợ.
+
