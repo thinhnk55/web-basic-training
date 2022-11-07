@@ -1,5 +1,7 @@
 Yêu Cầu:
 Làm giao diện màn hình login bằng sử dụng html và css.
+Không được phép sử dụng thư viện ngoài hỗ trợ mà chỉ được phép dùng css trong file css/login.css
+Mục đích là để mọi người hiểu bản chất thật sự của HTML và CSS.
 Thời gian làm bài khuyến nghị:
 Ít hơn 2h, nếu bạn làm quá thời gian trên chứng tỏ bạn đang bị thiếu sót kiến thức nào đó.
 Vui lòng dừng làm bài tập, nộp bài và liên hệ người hướng dẫn để được hỗ trợ.
