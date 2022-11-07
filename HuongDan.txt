@@ -27,7 +27,8 @@ Tuy nhiên nghiêm cấm chia sẻ code với nhau.
 Chỉ thảo luận về lý thuyết, nguyên lý, tư duy, cung cấp tài nguyên để học hỏi, chứ không code hộ.
 
 Yêu cầu khi nộp bài:
-1. Mỗi người phải tạo một tài khoản GitHub, và tạo một repository có tên là web-basic-training và để ở trạng thái public
+1. Mỗi người phải tạo một tài khoản GitHub, và tạo một repository có tên là web-basic-training và để ở trạng thái private (để tránh copy bài của nhau)
+2. Mời github của người hướng dẫn vào repo, tài khoản github là thinhnk55
 2. Khi làm bài, mọi người tạo bên trong repo một thư mục con tương ứng với phần bài tập mình làm.
    Ví dụ trường hợp bài 1 thì tên thư mục là ex1 và để phần code của mình bên trong.
 3. Khi nộp bài thì cần gửi lại link GitHub repository, người hướng dẫn sẽ tải về và chủ động đánh giá.
