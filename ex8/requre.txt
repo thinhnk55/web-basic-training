@@ -1,0 +1,3 @@
+Xây dựng layout giống ex5
+
+Sử dụng GRID SYSTEM (Tự tạo GRID SYSTEM để dùng, không dùng sẵn của thư viện hay framework)

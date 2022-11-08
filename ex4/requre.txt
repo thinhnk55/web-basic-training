@@ -1,0 +1,13 @@
+Yêu cầu:
+Di chuyển object theo chuột
+Có 3 đối tượng container, box, object
+container: Hiển thị full viewport
+box: Kích thước 600px x 600px (Căn ở vị trí trung tâm container)
+object: Kích thước 50px x 50px.
+Khi click chuột vào các khu vực trên container, nếu nằm ở trong box thì di chuyển
+object về vị trí click chuột. (Tâm object trùng với vị trí click chuột, có thể tràn ra ngoài box),
+nếu không nằm trong box thì không di chuyển object.
+
+Mục đích:
+1. Kiểm soát vị trí của đối tượng
+2. Làm quen với tư duy làm game.
