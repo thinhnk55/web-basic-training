@@ -1,0 +1,85 @@
+Nghiên cứu cấu trúc của thư viện CSS Bootstrap version 3.4.1
+
+Mở file css/bootstrap-3.4.1.css và trả lời ngắn gọn các câu hỏi bên dưới:
+
+1. Bản đầy đủ của thư viện CSS có bao nhiêu dòng?
+2. CSS Syntax:
+Ruleset:
+
+Cho CSS ruleset như sau:
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+Đâu là Declaration?
+font-family là gì trong Declaration?
+sans-serif là gì trong Declaration?
+html là gì trong ruleset?
+Toàn bộ
+{
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+gọi là gì trong ruleset?
+
+CSS Statement:
+
+Cho 2 CSS statements như sau:
+@media print {
+*,
+  *:before,
+  *:after {
+    color: #000 !important;
+    text-shadow: none !important;
+    background: transparent !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+  }
+}
+Đây là loại CSS statements gì? Mục đích của từ khóa @media print là gì?
+Tìm tất cả các từ khóa tương tự @media print trong thư viện và giải thích mục đích của nó?
+
+p,h2,h3 {
+    orphans: 3;
+    widows: 3;
+  }
+Đây là loại CSS statement gì? Giải thích p,h2,h3
+
+CSS Selector:
+Tìm trong thư viện ví dụ về các loại SELECTOR sau: (nếu không có loại này trong thư viện, hãy tìm ví dụ bên ngoài)
+ Type, class, and ID selectors
+ Attribute selectors
+ Pseudo-classes and pseudo-elements
+ Combination CSS Selector
+   Descendant selector (space)
+   Child selector (>)
+   Adjacent sibling selector (+)
+   General sibling selector (~)
+
+3. Cấu trúc CSS statement trong thư viện CSS bootstrap 3.4.1
+Em hãy phân nhóm CSS statement trong thư viện CSS bootstrap 3.4.1 theo cách hiểu của em. (Phân nhóm theo mục đích sử dụng)
+
+Tìm hiểu về nhóm LAYOUT:
+Tìm các CSS statement phục vụ xây dựng layout và trả lời câu hỏi:
+- Phân biệt container và container-fluid
+- Boostrap Grid System mặc định chia màn hình thành bao nhiêu cột, khoảng cách giữa các cột là bao nhiêu px?
+- Boostrap Grid System sử dụng các break-point nào?
+- Tìm hiểu bootstrap làm thế nào để các từ khóa sm, sm, md, lg và xl hoạt động
+- Tìm các khai báo ảnh hưởng đến z-index trong thư viện bootstrap
+Tìm hiểu về nhóm Component:
+- Responsive embed là gì? Tìm phần khai báo về Responsive embed trong thư viện bootstrap 3.4.1
+
+
+
+
+
+
+
+
+
+
+
+
+

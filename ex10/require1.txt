@@ -1,0 +1,10 @@
+#Web Theme
+Theme trong lập trình web là gì?
+
+Less là gì?
+Build file card.less thành card.css
+Dùng card.css để sử dụng trong file card.html
+
+Tìm hiểu sâu hơn về lập trình Less để có thể tùy biến theme theo ý thích ở đây:
+https://lesscss.org/features/
+
