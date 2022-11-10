@@ -5,3 +5,5 @@ Mở file js/bootstrap-3.4.1.js và trả lời ngắn gọn các câu hỏi bê
 1. Bootstrap javascript build on top của thư viện javascript nào?
 2. Sử dụng bootstrap js để tạo ra một collapse button như trong file demo. Khi click vào button thì sẽ hiện thị nội dung hoặc ẩn nội dung.
 3. Giải thích xem bootstrap js đã làm như thế nào để thực hiện việc đó.
+4. Không import toàn bộ thư viện CSS và thư viện JS của bootstrap mà tự tạo ra file css và js với nội dung được
+trích ra từ thư viện bootstrap (copy sang chứ không tự code, để làm demo tương tự)
